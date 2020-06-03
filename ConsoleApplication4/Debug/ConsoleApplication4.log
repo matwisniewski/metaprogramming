@@ -1,0 +1,8 @@
+﻿  ConsoleApplication4.cpp
+c:\users\intexpc\desktop\metaprogramming\xd\consoleapplication4\consoleapplication4.cpp(22): warning C4244: "=": konwersja z "ulong" do "_Ty", możliwa utrata danych
+          with
+          [
+              _Ty=short
+          ]
+c:\users\intexpc\desktop\metaprogramming\xd\consoleapplication4\consoleapplication4.cpp(71): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  ConsoleApplication4.vcxproj -> C:\Users\inteXPC\Desktop\Metaprogramming\xd\ConsoleApplication4\Debug\ConsoleApplication4.exe
